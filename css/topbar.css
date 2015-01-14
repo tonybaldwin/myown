@@ -1,0 +1,115 @@
+/**
+ * css for MyOwn template 
+ *
+ * @author Michael Klier <chi@chimeric.de> 
+ *
+ * Modification for MyOwn Theme
+ * @author: Tony Baldwin
+ * @homepage: http://tonybaldwin.me
+ */
+
+div.topbar a.wikilink2:link,
+div.topbar a.wikilink2:active,
+div.topbar a.wikilink2:visited,
+div.topbar a.wikilink1:link,
+div.topbar a.wikilink1:active,
+div.topbar a.wikilink1:visited,
+div.topbar a.interwiki:link,
+div.topbar a.interwiki:active,
+div.topbar a.interwiki:visited,
+div.topbar a.urlextern:link,
+div.topbar a.urlextern:active,
+div.topbar a.urlextern:visited
+{
+    font-size: 15px;
+    font-weight: bold;
+    display: block;
+    padding-right: 10px; 
+    padding-left: 10px; 
+    text-decoration: none;
+    color: #fff;
+    white-space: nowrap;
+    text-align:left;
+/*    width: 50px;*/
+    float: left;
+}
+
+div.topbar a.activepage
+{
+    font-size: 11px;
+    font-weight: bold;
+    width:90%;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-left: 5px;
+    white-space: nowrap;
+    text-align: center;
+/*    width: 50px;*/
+    float: left;
+}
+
+div.topbar a:link {text-decoration: underline; color: #fff!important;}
+div.topbar a:visited {text-decoration: none; color: #fff!important;}
+div.topbar a:active {text-decoration: none; color: red;}
+div.topbar a:hover {text-decoration: none; color: white; background-color: #000!important; -moz-border-radius:3px;border-radius:3px;}
+
+div.topbar a.wikilink2:hover,
+div.topbar a.wikilink1:hover,
+div.topbar a.interwiki:hover,
+div.topbar a.urlextern:hover, 
+div.topbar a.activepage:hover
+{
+    text-decoration: none; 
+    height: 10px;
+    color: #ffffff;
+}
+
+
+div.topbar h1,
+div.topbar h2,
+div.topbar h3,
+div.topbar h4,
+div.topbar h5,
+div.topbar h6 
+{
+  font-family: Verdana;
+  font-weight:bold;
+  padding-bottom: 0px;
+}
+
+div.topbar
+{
+    border: 0px;
+    background: #000;
+    color: #fff;
+    width: 100%;
+    list-style: none;
+    position:fixed;
+    margin-top:0px;
+    top:0;
+    left:0;
+}
+
+div.topbar ul
+{ 
+    padding: 0px;
+	margin: 0px;
+    padding-top: 0px;
+    list-style: none;
+    white-space: nowrap;
+}
+
+div.topbar li
+{ 
+    width: auto !important;
+    float: left;
+    margin: 0px;
+    font-size: 11px;
+    height: 20px;
+    line-height: 20px;
+    white-space: nowrap;
+    margin-right: 1px;	
+}
