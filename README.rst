@@ -104,7 +104,7 @@ Source code is available on http://github.com/tonybaldwin/myown
 Changelog
 ================================
 
-Version 0.1 - released 15 October 2013
+Version 0.1 - released 15 January 2015
 
 Authors
 =======
