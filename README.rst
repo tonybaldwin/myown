@@ -19,7 +19,7 @@ MyOwn has the following features
 Selected Users:
 =============================
 
-  - http://taz.liberame.org/wiki/
+  - http://wiki.myownsite.me
 
 Installation
 =============================
