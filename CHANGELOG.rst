@@ -1,4 +1,4 @@
-MyoOwn template for DokuWiki
+MyOwn template for DokuWiki
 =============================
 
 Version 0.1 (2015-Jan-15)
