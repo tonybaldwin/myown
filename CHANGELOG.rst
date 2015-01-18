@@ -1,4 +1,4 @@
-cleansimple template for DokuWiki
+MyoOwn template for DokuWiki
 =============================
 
 Version 0.1 (2015-Jan-15)
