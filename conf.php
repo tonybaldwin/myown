@@ -5,7 +5,7 @@
  * configuration file for template "MyOwn"
  * 
  * @author: Tony Baldwin
- * @homepage: http://tonybaldwin.me
+ * @homepage: http://myownsite.me
  */
 
 /**
@@ -35,7 +35,7 @@ $conf['tpl_MyOwn']['menu2Permanent'] = false;
 $conf['tpl_MyOwn']['wikiBar'] = false;
 
 /** 
- * Search Form visibale on page
+ * Search Form visible on page
  */
 $conf['tpl_MyOwn']['searchForm'] = true;
 

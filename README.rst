@@ -27,6 +27,7 @@ Installation
   1. Download the MyOwn template zip-file
   #. Unpack it into *<dokuwiki>/lib/tpl/* directory
   #. Change template parameter to MyOwn in *<dokuwiki>/conf/local.php* file
+  #. or change template parameter in the admin/configuration page.
 
     :: 
 
@@ -77,7 +78,7 @@ content.
 
 menu2.txt
 ------------------------------
-menu2.txt file is displayed on every generated web page and it constains sidebar menu content.
+menu2.txt file is displayed on every generated web page and it contains menu content.
 
   ::
   
@@ -109,4 +110,4 @@ Version 0.1 - released 15 January 2015
 Authors
 =======
 
- - Tony Baldwin | http://tonybaldwin.me , http://myownsite.me
+ - Tony Baldwin | http://myownsite.me

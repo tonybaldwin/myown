@@ -3,7 +3,7 @@
  * MyOwn DokuWiki Template
  *
  * @author: Tony Baldwin
- * @homepage: http://tonybaldwin.me
+ * @homepage: http://myownsite.me
  */
 
  require_once(dirname(__FILE__).'/tpl_functions.php');

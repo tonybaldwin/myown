@@ -5,7 +5,7 @@
  * License: GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
  * @author: Tony Baldwin
- * @homepage: http://tonybaldwin.me
+ * @homepage: http://myownsite.me
  */
 
 require_once('conf.php');
