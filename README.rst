@@ -7,7 +7,7 @@ including menu, keywords and description.
 
 .. _DokuWiki: http://www.dokuwiki.org
 
-.. image:: http://tonybaldwin.me/images/myowndokushot.jpg
+.. image:: http://tonybaldwin.me/images/myowndokuwikitemplate.jpg
    :align: center
 
 MyOwn has the following features 
