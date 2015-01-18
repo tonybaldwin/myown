@@ -19,7 +19,7 @@ MyOwn has the following features
 Selected Users:
 =============================
 
-  - http://wiki.myownsite.me
+  - http://www.myownsite.me
 
 Installation
 =============================
