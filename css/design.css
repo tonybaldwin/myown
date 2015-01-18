@@ -16,6 +16,7 @@ body
 	background-image: url('../images/wallpaper.jpg')!important;
 	background-repeat: no-repeat!important;
 	background-attachment: fixed!important;
+	background-size: 100% 100%; 
 	margin: auto;
 	font-family: 'Roboto', sans-serif;
   	width:100%;
