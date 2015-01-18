@@ -11,15 +11,16 @@
 
 /* -------------- general elements --------------- */
 
-body 
-{
-	background-image: url('../images/wallpaper.jpg')!important;
+body {
+
+	background: url('../images/wallpaper.jpg')!important;
 	background-repeat: no-repeat!important;
 	background-attachment: fixed!important;
-	background-size: 100% 100%; 
+	background-position: center!important;
+	background-size: 100% 100%!important;
 	margin: auto;
 	font-family: 'Roboto', sans-serif;
-  	width:100%;
+ 	width:100%;
 	  line-height:150%;
 	  background: #fff;
 }
@@ -52,12 +53,14 @@ div.navi {
 
 div.page
 {
-	background-image: url('..//images/sunsetoverquinnipiacriver2013-06-17.jpg')!important;
+	background: url('../images/wallpaper.jpg')!important;
+	background-size: 100% 100%!important; 
 	background-repeat: no-repeat!important;
 	background-attachment: fixed!important;
-  width:100%;
-  background: #ffffff;
-  margin:auto;
+	background-position: center!important;
+	width:100%;
+	background: #ffffff;
+	margin:auto;
 }
 
 div.container
@@ -69,8 +72,6 @@ div.container
 	margin:auto;
 	width:800px;
 	padding: 10px;
-	border-radius: 10px;
-	moz-border-radius:10px;
 }
 
 div.content_with_sidebar, div.content
