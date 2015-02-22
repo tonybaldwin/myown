@@ -16,7 +16,8 @@
     <div class="header">
       <div class="topbar">
 	<div class="navi">
-				<?php tpl_menu1(); ?>
+	<?php tpl_menu1(); ?>
+	<?php @include(dirname(__FILE__).'/show_languages.html')?>
  	</div>
       </div>
 

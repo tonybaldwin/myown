@@ -1,4 +1,4 @@
-MyOwn
+MyOwn Dokuwiki Template
 =======
 
 MyOwn is a template for DokuWiki_ (standards compliant and 

@@ -1,0 +1,10 @@
+<?php 
+      $multi_lingual_plugin = &plugin_load('syntax','multilingual');
+      if ( $multi_lingual_plugin ) {
+        if ( !plugin_isdisabled($multi_lingual_plugin->getPluginName() ) ) {
+          print $multi_lingual_plugin->_showTranslations();
+        }
+      }
+?>
+
+
